@@ -1,6 +1,4 @@
-# Relay Fee Calculator
-
-A Python tool for collecting and analyzing fee data from relay.link API for specified wallet addresses.
+# Opensea Swap Fee Calculator
 
 ## Installation
 
